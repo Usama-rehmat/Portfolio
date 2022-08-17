@@ -491,6 +491,10 @@ p{
     line-height: 2rem;
     font-weight: 500;
 }
+#contact .contact-info a{
+    text-decoration: none;
+    color: #000;
+}
 /* End Contact Section */
 /*  */
 /* Footer Section */
